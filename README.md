@@ -7,6 +7,6 @@ David Leonardo Acero Camargo - 20151020090
 
 Jherson Guzman Ramirez - 20151020097
 
-Si el programa no compila correctamente usar la version de Python 3.32
+Si el programa no compila correctamente usar la version de Python 3.3.2
 
 Muchas Gracias
